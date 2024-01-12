@@ -1,3 +1,5 @@
+//AtCoder Beginner Contest 335/E: Equivalence Relations on DAG
+//Solved 2024-01-12
 #include <bits/stdc++.h>
 #define f(i,q,a) for(long long i=q; i<a; i++)
 #define ll long long
