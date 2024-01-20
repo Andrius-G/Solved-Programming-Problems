@@ -1,3 +1,5 @@
+//AtCoder Beginner Contest 337/E: A Classic D&C Problem
+//Solved 2024-01-20
 #include <bits/stdc++.h>
 #define f(i,q,a) for(long long i=q; i<=a; i++)
 #define ll long long
