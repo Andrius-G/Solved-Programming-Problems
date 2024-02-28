@@ -1,3 +1,5 @@
+//2024-02-28, doing some upsolving. I originally almost-solved this problem 4 years ago, but ultimately gave up.
+//Now, I've got an AC after fixing a simple bug.
 #include <bits/stdc++.h>
 #define f(i,q,a) for(long long i=q; i<a; i++)
 #define ll long long
